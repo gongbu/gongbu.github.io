@@ -19,7 +19,7 @@
 - [x] Automatic paging generation
 - [x] Modify _config.yml's links for your menu
 - [x] Modify the _config.yml of paginate for how many pages you want to page
-
+ㅇㅇ
 ![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
 
  ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
